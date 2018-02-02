@@ -34,7 +34,7 @@
                </td>
             </tr>
          </table>
-          <a href="commentList">戻る</a>
+         <a href="commentList?book_id=${book_id}">戻る</a>
       </form>
        
       <jsp:include page="_footer.jsp"></jsp:include>
